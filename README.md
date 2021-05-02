@@ -15,5 +15,4 @@ Then you can run the benchmark via `python benchmark_tree.py --tree_method=hist`
 
 My personal results:
  - AMD Ryzen 7 4800H
-	- tree_methood=hist:
-		- Train Time: 19.940454959869385 seconds
+	- tree_methood=hist: Train Time 19.940454959869385 seconds
