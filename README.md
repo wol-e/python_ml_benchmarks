@@ -1,2 +1,2 @@
 # python_ml_benchmarks
-Some system benchmarks for ML 
+Some system benchmarks for machine learning and deepl learning 
