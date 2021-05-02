@@ -1,5 +1,5 @@
 # python_ml_benchmarks
-Some system benchmarks for machine learning and deepl learning
+Some references for system benchmarks for machine learning and deepl learning.
 
 Setup: You can use [poetry](https://python-poetry.org/docs/) for dependency management, then the pyproject.toml provides these. Else, you can install them separately for the test your interested in.
 
