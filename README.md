@@ -15,4 +15,5 @@ Then you can run the benchmark via `python benchmark_tree.py --tree_method=hist`
 
 My personal results:
  - AMD Ryzen 7 4800H
-	- tree_methood=hist: Train Time 19.940454959869385 seconds
+	- tree_methood=hist: Min Time: 19.940454959869385 seconds, median time: ~30 seconds
+	- tree_method=gpu_hist with NVIDIA TU106 [GeForce RTX 2060]: median time: ~ 33 seconds
